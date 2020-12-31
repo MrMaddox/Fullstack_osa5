@@ -1,0 +1,2 @@
+[1231/132511.254:ERROR:directory_reader_win.cc(43)] FindFirstFile: Määritettyä polkua ei löydy. (0x3)
+[0101/004445.878:ERROR:process_reader_win.cc(151)] SuspendThread: Käyttö estetty. (0x5)
